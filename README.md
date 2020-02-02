@@ -1,0 +1,2 @@
+# ALPR-
+This repository will help you  to creat your first application in computer vision based on machine learning algorthims, thise two  fields are become closely related to one another. Machine learning has improved computer vision about recognition and tracking. It offers effective methods for acquisition, image processing, and object focus which are used in computer vision. i built  this application to detection then to recognize its lincence number plate which developed in GUI application  based on Python software  
